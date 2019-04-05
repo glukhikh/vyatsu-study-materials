@@ -1,2 +1,1 @@
-# vyatsu-study-materials
-Study materials for VyatSU
+# Учебные материалы ВятГУ для направления ИВТ (ФАВТ)
